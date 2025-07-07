@@ -36,16 +36,16 @@
 ## 📁 Folder Structure
 
 Movix-main/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── api/
-│   └── App.jsx
-├── .env
-├── package.json
-└── README.md
+├── public/   
+├── src/   
+│   ├── assets/   
+│   ├── components/   
+│   ├── pages/   
+│   ├── api/   
+│   └── App.jsx   
+├── .env   
+├── package.json   
+└── README.md   
 
 ## 🧑‍💻 Author
 Mitkumar Patel
