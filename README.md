@@ -35,7 +35,7 @@
   
 ## 📁 Folder Structure
 
-Movix-main/
+Movix-main/   
 ├── public/   
 ├── src/   
 │   ├── assets/   
